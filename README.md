@@ -1,16 +1,12 @@
 # pr2_2
 
-A new Flutter project.
+## Image : 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p>
 
-A few resources to get you started if this is your first Flutter project:
+ 
+ <img  src = "https://github.com/Mannpandya27/PR-2-Designer/assets/132265675/88cabab3-723e-4eaf-968d-1fdd16cadbdc" width=22% height=35% >
+ 
+  </P>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
